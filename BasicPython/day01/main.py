@@ -4,8 +4,12 @@
 # @File    : main.py
 # @Software: PyCharm
 
+
 def fun_add():
     print("print")
+
+def fun_sub():
+    print("checkout")
 
 
 if __name__ == '__main__':
